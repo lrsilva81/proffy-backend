@@ -29,6 +29,6 @@
     "sqlite3": "^5.0.0",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
-    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-typescript": "^6.0.0-alpha.1"
   }
 }
